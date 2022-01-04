@@ -1,0 +1,42 @@
+.tabs {
+    background: #141414;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 3px solid #3d3d3d;
+
+    .tab-container {
+      max-width: 70%;
+      max-height: 10%;
+      margin: auto;
+      overflow: hidden;
+      padding: 0 0.5rem;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-gap: 1rem;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+
+      .tab-border {
+        border-bottom: red solid;
+      }
+
+      p{
+        font-size: 18px;
+        padding: 0.5rem;
+        color: gray;
+      }
+      > div {
+        padding: 1.5rem 0;
+      }
+
+      > div:hover {
+        p {
+          color: white;
+        }
+        cursor: pointer;
+      }
+    }
+  
+  }
