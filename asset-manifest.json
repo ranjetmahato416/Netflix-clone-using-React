@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ranjetmahato416/Netflix/static/css/main.5d31b869.css",
+    "main.js": "/ranjetmahato416/Netflix/static/js/main.178cc2a0.js",
+    "static/js/787.cfd8f164.chunk.js": "/ranjetmahato416/Netflix/static/js/787.cfd8f164.chunk.js",
+    "static/media/video1.MP4": "/ranjetmahato416/Netflix/static/media/video1.f693d57ba9f5e44873c4.MP4",
+    "static/media/background.jpg": "/ranjetmahato416/Netflix/static/media/background.0c896d566dfecc6ca6fd.jpg",
+    "static/media/strangerthings.jpg": "/ranjetmahato416/Netflix/static/media/strangerthings.4170bb5ab6277f6794a1.jpg",
+    "static/media/netf1.jpg": "/ranjetmahato416/Netflix/static/media/netf1.377ab82a75108cba9c8e.jpg",
+    "static/media/logo.png": "/ranjetmahato416/Netflix/static/media/logo.8e8e8efbcf81d02adc7a.png",
+    "index.html": "/ranjetmahato416/Netflix/index.html",
+    "main.5d31b869.css.map": "/ranjetmahato416/Netflix/static/css/main.5d31b869.css.map",
+    "main.178cc2a0.js.map": "/ranjetmahato416/Netflix/static/js/main.178cc2a0.js.map",
+    "787.cfd8f164.chunk.js.map": "/ranjetmahato416/Netflix/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d31b869.css",
+    "static/js/main.178cc2a0.js"
+  ]
+}
